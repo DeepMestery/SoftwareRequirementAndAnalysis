@@ -1,0 +1,23 @@
+body {
+	font-family: Î¢ÈíÑÅºÚ;
+}
+
+table {
+	text-align: center;
+}
+
+tr {
+	height: 70px;
+}
+
+.in {
+	width: 350px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+}
+
+.tip {
+	visibility: hidden;
+	color: red;
+}
